@@ -1,3 +1,4 @@
 <h1>Hi</h1>
-<h6>aeiou</h6>
+<h4>hola</h4>
+<p>adios</p>
 <p>Bye</p>
